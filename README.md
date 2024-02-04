@@ -10,4 +10,4 @@ Actualmente sigo el camino para convertirme en Arquitecto de Software, y aunque 
 ![Logo C#](C_sharp.png)
 ![Logo .net](.netCore.png)
 ![Logo SqlServer](SQL_Server_200.png)
-![Logo MySql]()
+![Logo MySql](logoMySQL.png)
