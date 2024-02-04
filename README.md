@@ -6,3 +6,8 @@ En mi trayectoria laboral he trabajado en numerosas empresas, unas como empleado
 
 Actualmente sigo el camino para convertirme en Arquitecto de Software, y aunque por ahora me considero un Joven Padawan espero pronto poder descubrir todos los misterios de este nuevo reto.
 
+### Tecnologías que domino
+![Logo C#]()
+![Logo .net]()
+![Logo SqlServer]()
+![Logo MySql]()
