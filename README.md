@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola! Soy Jesús Palomo Alcázar 👋</h1>
 
-<h3 align="center">Desarrollador de aplicaciones informáticas · .NET · Camino a Arquitecto de Software</h3>
+<h3 align="center">Desarrollador senior .NET · C#, Mirth y HL7</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jesuspalomoalcazar/"><img src="https://img.shields.io/badge/LinkedIn-jesuspalomoalcazar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://jesuspalomoalcazar.github.io"><img src="https://img.shields.io/badge/Mi_Curr%C3%ADculum-Web-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mi currículum"></a>
+  <a href="https://jesuspalomoalcazar.github.io"><img src="https://img.shields.io/badge/Mi_CV-Web-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mi CV online"></a>
   <a href="https://jesuspalomoalcazar.github.io/ClickedTEC"><img src="https://img.shields.io/badge/ClickedTEC-Proyecto-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="ClickedTEC"></a>
 </p>
 
@@ -12,33 +12,36 @@
 
 ## 🧑‍💻 Sobre mí
 
-Llevo **más de 10 años** desarrollando aplicaciones informáticas. He trabajado tanto como empleado, creando software para terceros, como en proyectos donde desarrollaba el software interno de la propia empresa. En el camino he coincidido con compañeros de los que he aprendido muchísimo, tanto en lo profesional como en lo personal.
+Llevo **más de 10 años** desarrollando aplicaciones de gestión, web y móviles, y hoy trabajo en **software sanitario**: analizo y programo en **C#** una aplicación que se usa en hospitales públicos y privados, y creo canales de **Mirth** (4.4.1) que traspasan historias clínicas entre programas del sector mediante mensajes **HL7** estándar.
 
-No todo ha sido un camino de rosas, pero me quedo con esta idea:
+Antes, durante casi 10 años, desarrollé software de turismo, gestión y contabilidad, analicé nuevas integraciones en .NET, ejercí de **Scrum Master** del equipo de desarrollo y formé a alumnos en prácticas.
+
+Soy constante, divido los problemas en pasos pequeños y me gusta trabajar en equipos con los papeles bien definidos. Mi objetivo es llegar a **Arquitecto de Software**.
 
 > *"Los problemas son como las piedras: puedes utilizarlos como anclas para hundirte o como escalones para subir."*
-
-Ahora mismo sigo el camino para convertirme en **Arquitecto de Software**. Por ahora me considero un joven padawan 🌱, pero con ganas de descubrir todos los misterios de este nuevo reto.
 
 ## 🎯 En qué estoy
 
 - 🏛️ Formándome en **Arquitectura Limpia**, **SOLID** y **patrones de diseño** con .NET
-- 📱 Explorando **.NET MAUI** para aplicaciones multiplataforma
-- 🛠️ Creando mis propias utilidades de escritorio en **C#**
+- 🤖 **IA generativa aplicada al desarrollo**: agentes, RAG, MCP y asistentes de código (97 horas de formación entre 2025 y 2026)
+- 🛠️ Creando mis propias utilidades de escritorio en **C#**, con arquitectura en capas
 
-## 🛠️ Tecnologías que domino
+## 🛠️ Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI">
+  <img src="https://img.shields.io/badge/Mirth_4.4.1-0B7A78?style=for-the-badge" alt="Mirth 4.4.1">
+  <img src="https://img.shields.io/badge/HL7-1A3A57?style=for-the-badge" alt="HL7">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Scrum-E0A21B?style=for-the-badge" alt="Scrum">
 </p>
 
 <p>
@@ -48,46 +51,46 @@ Ahora mismo sigo el camino para convertirme en **Arquitecto de Software**. Por a
   <img src="https://img.shields.io/badge/OpenCart-23A1D1?style=for-the-badge&logo=opencart&logoColor=white" alt="OpenCart">
 </p>
 
-**También:** administración de sistemas informáticos, montaje de redes e instalación y configuración de CMS.
+**Formación reciente en IA:** LangChain, LangGraph, RAG, MCP, FastAPI, prompt engineering, GitHub Copilot, Cursor y Claude Code.
 
 ## 💼 Experiencia
 
 | Periodo | Puesto | Empresa |
 |---|---|---|
-| 2025 - Actualidad | Analista y Programador | Metaenlace - Futurs |
-| 2015 – 2025 | Programador | Ofimática TSS |
-| 2014 | Programador | Soluciones NTIC |
-| 2014 | Programador | Transporte Urbano de Jaén (Autobuses Castillo) |
-| 2012 | Programador | 12 CODE (IMEFE-Emplea Jaén II) |
-| 2011 | Programador | White Phone Telecom (Torredonjimeno) |
-| 2009 – 2010 | Programador | Cristalería Rute (Córdoba) |
+| Jun. 2025 – Actualidad | Desarrollador senior .NET (Mirth y C#) | MetaEnlace Sistemas de Información |
+| Nov. 2015 – Jun. 2025 | Programador de software y Scrum Master | Ofimática |
+| Jul. 2014 – Nov. 2015 | Programador web, Android e iOS | Autobuses Castillo (Urbanos Jaén) |
+| Feb. 2013 – Jun. 2014 | Programador web y Android | Soluciones NTIC |
+| Abr. – Ago. 2012 | Programador Android | 12 Code |
+| Mar. – Dic. 2011 | Programador web | Whitephone Telecom |
+| Ene. 2009 – Mar. 2010 | Programador Windows | Cristalería Ruteña |
 
 ## 🎓 Formación
 
-- **Técnico Superior en Desarrollo de Aplicaciones Informáticas** · I.E.S. Las Fuentezuelas, Jaén (2007)
-  *Al terminar, el profesorado me pidió crear un programa de aprendizaje para futuras promociones sobre políticas de disco duro (FIFO, Round Robin).*
-- **Bachillerato** · Colegio Cristo Rey, Jaén (2004)
-
-**Formación complementaria**
-
-- Arquitectura limpia con .NET · 2022
-- SOLID y patrones de diseño · 2022
-- Desarrollo de aplicaciones .NET · Novasoft · 2014
+- **Técnico Superior en Desarrollo de Aplicaciones Informáticas** · I.E.S. Las Fuentezuelas, Jaén (2005 – 2007)
+- **IA generativa** · 6 cursos de OpenWebinars y una jornada de BIG school (2025 – 2026): Agentes de IA Generativa (60 h), Full Stack con IA integrada, Integración de APIs en IA Generativa, Prompt Engineering, Asistentes de código y Fundamentos IA para Desarrolladores
+- **Arquitectura limpia con .NET** y **SOLID y patrones de diseño** · OpenWebinars (2022)
+- **Test de aptitud .NET Core** · nivel Medium I (2023)
 
 ## 🌍 Idiomas
 
 - 🇪🇸 Español: nativo
-- 🇬🇧 Inglés: nivel de Bachillerato e inglés técnico informático
+- 🇬🇧 Inglés: lectura B1 (documentación técnica), A2 general, preparando el B1
 - 🇫🇷 Francés: nivel de Bachillerato
 
 ## 🎮 Fuera del código
 
-Cine 🎬 · Naturaleza 🌿 · Electrónica 🔌 · Airsoft 🎯
+Electrónica 🔌 · Senderismo 🥾 · Arborismo 🌳 · Descenso de ríos 🛶
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JesusPalomoAlcazar&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusPalomoAlcazar&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
+</p>
 
 ## 📫 Contacto
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jesuspalomoalcazar/) o echar un vistazo a [mi currículum web](https://jesuspalomoalcazar.github.io).
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jesuspalomoalcazar/) o ver [mi currículum web](https://jesuspalomoalcazar.github.io).
 
 <p align="center"><i>Gracias por pasarte por aquí 🚀</i></p>
-
-
