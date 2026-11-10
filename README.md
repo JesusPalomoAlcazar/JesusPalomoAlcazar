@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jesuspalomoalcazar/"><img src="https://img.shields.io/badge/LinkedIn-jesuspalomoalcazar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://jesuspalomoalcazar.github.io"><img src="https://img.shields.io/badge/Mi_CV-Web-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mi CV online"></a>
-  <a href="https://jesuspalomoalcazar.github.io/ClickedTEC"><img src="https://img.shields.io/badge/ClickedTEC-Proyecto-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="ClickedTEC"></a>
 </p>
 
 ---
