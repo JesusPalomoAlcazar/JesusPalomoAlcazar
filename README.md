@@ -81,13 +81,6 @@ Soy constante, divido los problemas en pasos pequeños y me gusta trabajar en eq
 
 Electrónica 🔌 · Senderismo 🥾 · Arborismo 🌳 · Descenso de ríos 🛶
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JesusPalomoAlcazar&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusPalomoAlcazar&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
-</p>
-
 ## 📫 Contacto
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jesuspalomoalcazar/) o ver [mi currículum web](https://jesuspalomoalcazar.github.io).
